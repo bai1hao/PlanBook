@@ -1,0 +1,19 @@
+{
+  "name": "planbook",
+  "version": "1.0.0",
+  "description": "Make your plan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bai1hao/PlanBook.git"
+  },
+  "author": "bai1hao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bai1hao/PlanBook/issues"
+  },
+  "homepage": "https://github.com/bai1hao/PlanBook#readme"
+}
